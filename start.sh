@@ -2,7 +2,7 @@
 echo "START"
 
 echo "Cloning remote repo"
-git clone https://github.com/laurent-george/tp_traitement_image.git data
+git clone https://github.com/laurent-george/vision_esme_2017.git data
 
 echo "Removing previous docker container if found" 
 docker rm vision-esme
