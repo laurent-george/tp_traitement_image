@@ -10,10 +10,9 @@ Installation:
 
 Téléchargez et exécutez le script [start.sh](./start.sh) qui installera et lancera l'environmement pour ce cours
 
-   bash start.sh
+    bash start.sh
 
-Ouvrez dans votre navigateur web la page: [http://localhost:8888/notebooks/data/](http://localhost:8888/notebooks/data/)
-   
+Ouvrez dans votre navigateur web la page: [http://localhost:8888/tree?](http://localhost:8888/tree?) en utilisant le token affiché dans le terminal.
 
 Liste des tp:
 
