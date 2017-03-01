@@ -48,6 +48,7 @@ RUN bash -c "wget https://repo.continuum.io/archive/Anaconda3-4.3.0-Linux-x86_64
 env PATH /root/anaconda3/bin:$PATH
 RUN bash -c "~/anaconda3/bin/conda install -c menpo opencv3 -y"
 RUN bash -c "~/anaconda3/bin/conda install -c conda-forge imageio -y"
+RUN bash -c "wget http://srand.fr/negative_image.tar.gz && tar xvf negative_image.tar.gz"
 # imageio -y"
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 COPY images/ /images
