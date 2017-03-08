@@ -19,3 +19,8 @@ Liste des tp:
     tp1 - détection d'un objet dans une image
     tp3 - correction
 [http://srand.fr/cours/tp3_cor.html](http://srand.fr/cours/tp3_cor.html)
+
+Questionnaire de satisfaction:
+
+  [https://goo.gl/forms/gdvfocgb8qFTFRk22](https://goo.gl/forms/gdvfocgb8qFTFRk22)
+
