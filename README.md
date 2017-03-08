@@ -17,3 +17,5 @@ Ouvrez dans votre navigateur web la page: [http://localhost:8888/tree?](http://l
 Liste des tp:
 
     tp1 - détection d'un objet dans une image
+    tp3 - correction
+[http://srand.fr/cours/tp3_cor.html](http://srand.fr/cours/tp3_cor.html)
