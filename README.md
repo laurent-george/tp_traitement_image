@@ -8,9 +8,10 @@ Contact: laurent (dot) f (dot) george (at) gmail (dot) com
 Installation:
 ----------------
 
-Téléchargez et exécutez le script [start.sh](./start.sh) qui installera et lancera l'environmement pour ce cours
-    
-    bash start.sh
+    git clone https://github.com/laurent-george/vision_esme.git
+    cd vision_esme
+    ./run.sh
+
 
 Ouvrez dans votre navigateur web la page: [http://localhost:8888/tree?](http://localhost:8888/tree?) en utilisant le token affiché dans le terminal.
 

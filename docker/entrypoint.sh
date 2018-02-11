@@ -7,8 +7,8 @@
 USER_ID=${LOCAL_USER_ID:-9001}
 
 echo "Starting with UID : $USER_ID"
-useradd --shell /bin/bash -G video -u $USER_ID -o -c "" -m user
-export HOME=/home/user
+useradd --shell /bin/bash -G video -u $USER_ID -o -c "" -m user_student
+export HOME=/home/user_student
 echo "groups should be ok"
 
-exec /usr/local/bin/gosu user "$@"
+exec /usr/local/bin/gosu user_student "$@"
