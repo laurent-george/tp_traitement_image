@@ -9,6 +9,7 @@ Installation:
 ----------------
 
     git clone https://github.com/laurent-george/vision_esme.git
+    docker pull laurentgeorge3/esme-vision
     cd vision_esme
     ./run.sh
 
